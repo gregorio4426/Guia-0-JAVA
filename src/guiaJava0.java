@@ -42,7 +42,7 @@ public class guiaJava0 {
         System.out.println("La suma de " +numN+ "+"+numA+ " es:"+suma1);
         double resta1= numA-numN;
         System.out.println("La diferencia entre " +numA+ " y "+numN+ " es:"+resta1);
-        System.out.println("El valor numerico de numC:" +(int)numC); ///as CASTEO A INT LA VARIABLE numC, Y ASI MMUESTRA EL VALOR DE TABLA ASCII.
+        System.out.println("El valor numerico de numC:" +(int)numC); ///CASTEO A INT LA VARIABLE numC, Y ASI MMUESTRA EL VALOR DE TABLA ASCII.
     }
 
 
@@ -90,3 +90,4 @@ public class guiaJava0 {
 
     }
 }
+
